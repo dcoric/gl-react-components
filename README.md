@@ -11,5 +11,5 @@
 To import all components from the repository add this line in `package.json`
 
 ```json
-"gl-react-components": "git@github.com:dcoric/experimental.git"
+"gl-react-components": "git@github.com:dcoric/gl-react-components.git"
 ```
